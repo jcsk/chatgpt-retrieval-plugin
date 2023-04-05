@@ -1,8 +1,8 @@
 openapi: 3.0.0
 info:
-  title: Langchain Docs API
+  title: Napa Valley API
   version: 1.0.0
-  description: This API lets you search through the LangChain Documentation.
+  description: This API lets you search through the Napa Valley Blog.
 servers:
   - url: https://seahorse-app-7m2vw.ondigitalocean.app
 paths:
